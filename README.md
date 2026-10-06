@@ -127,16 +127,15 @@ Currently improving my knowledge of:
 
 When I'm not coding, you'll probably find me:
 
-When I'm not coding, you'll probably find me:
-
-When I'm not coding, you'll probably find me:
-
 🎮 playing games  
 📚 getting lost in a good book  
 🎤 singing  
 🐾 hanging out with my dog  
 🚲 going on bike rides with her  
-🍽️ trying new places to eat
+🍽️ trying new places to eat  
+🕹️ enjoying pixel and retro game aesthetics  
+✨ learning something new  
+
 ---
 
 ## 📫 Contact
@@ -151,8 +150,8 @@ When I'm not coding, you'll probably find me:
 
 <div align="center">
 
-```text
-< keep learning • keep building • save often >
-```
+<pre>
+&lt; keep learning • keep building • save often &gt;
+</pre>
 
 </div>
