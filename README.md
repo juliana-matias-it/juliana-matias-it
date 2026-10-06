@@ -14,7 +14,9 @@
 
 ---
 
-```text
+<div align="center">
+
+<pre>
 ╔══════════════════════════════════════╗
 ║             PLAYER PROFILE           ║
 ╠══════════════════════════════════════╣
@@ -24,7 +26,9 @@
 ║ Current quest: Full Stack + Angular  ║
 ║ Language: Portuguese / English       ║
 ╚══════════════════════════════════════╝
-```
+</pre>
+
+</div>
 
 ## 👩‍💻 About Me
 
@@ -123,11 +127,16 @@ Currently improving my knowledge of:
 
 When I'm not coding, you'll probably find me:
 
-🎮 playing games  
-🐾 spending time with pets  
-🕹️ enjoying pixel and retro game aesthetics  
-📚 learning something new  
+When I'm not coding, you'll probably find me:
 
+When I'm not coding, you'll probably find me:
+
+🎮 playing games  
+📚 getting lost in a good book  
+🎤 singing  
+🐾 hanging out with my dog  
+🚲 going on bike rides with her  
+🍽️ trying new places to eat
 ---
 
 ## 📫 Contact
