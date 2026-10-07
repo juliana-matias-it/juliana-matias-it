@@ -2,7 +2,7 @@
 
 # 🎮 Hi, I'm Juliana
 
-### Software Engineer | .NET | Backend | SRE / DevOps
+### Software Engineer | .NET | Backend
 
 `C#` `ASP.NET Core` `Angular` `SQL` `Linux` `CI/CD`
 
