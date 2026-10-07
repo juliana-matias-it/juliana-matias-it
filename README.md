@@ -34,7 +34,7 @@
 
 I'm a software engineer with professional experience in **backend development, REST APIs, microservices, and production environments**.
 
-I work mainly with **C# and .NET**, and I also have experience with CI/CD, Linux, relational databases, incident investigation, and root cause analysis.
+I work mainly with **C# and .NET**, and I also have experience with relational databases, incident investigation, and root cause analysis.
 
 I'm currently expanding my full-stack skills with **Angular** and frontend/backend integration.
 
