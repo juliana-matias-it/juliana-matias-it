@@ -145,7 +145,7 @@ Currently improving my knowledge of:
 ## 🌎 Languages
 
 **Portuguese** — Native  
-**English** — Fluent
+**English** — Full Professional Proficiency (Cambridge C1 Advanced)
 
 ---
 
