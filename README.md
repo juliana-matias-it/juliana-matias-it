@@ -71,6 +71,32 @@ Outside of tech, I'm also into **games, pets, and pixel/retro aesthetics**. 🎮
 
 ## 🕹️ Featured Projects
 
+### ✅ Task Manager Application
+
+Full-stack task management application built with **Angular and ASP.NET Core**.
+
+Features:
+
+- User registration with form validation
+- Task creation and listing
+- Task editing
+- Task completion
+- Task removal
+- Tasks grouped by pending and completed status
+- REST API integration
+- Centralized API error handling
+- SQLite persistence
+- Responsive pixel-art inspired interface
+- Automated backend tests
+
+**Tech stack**
+
+`Angular` `TypeScript` `RxJS` `ASP.NET Core` `.NET 10` `Entity Framework Core` `SQLite` `xUnit`
+
+🎨 [Front-end Repository](https://github.com/juliana-matias-it/gerenciador-de-tarefas-frontend)
+
+⚙️ [Back-end Repository](https://github.com/juliana-matias-it/gerenciador-de-tarefas-backend)
+
 ### 📦 Product Management Application
 
 Full-stack application for managing products, built with **Angular and ASP.NET Core**.
