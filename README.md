@@ -4,7 +4,7 @@
 
 ### Software Engineer | .NET | Backend
 
-`C#` `ASP.NET Core` `Angular` `SQL` `Linux` `CI/CD`
+`C#` `ASP.NET Core` `Angular` `SQL` `CI/CD`
 
 <br>
 
