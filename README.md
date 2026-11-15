@@ -2,11 +2,9 @@
 
 # 🎮 Hi, I'm Juliana
 
-### Software Engineer | .NET | Backend
+### Software Engineer | C# | .NET | Backend
 
-`C#` `ASP.NET Core` `Angular` `SQL` `CI/CD`
-
-<br>
+`C#` `ASP.NET Core` `SQL Server` `Entity Framework Core` `xUnit` `Angular`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Matias-6C63A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-matias-it/)
 
@@ -14,31 +12,19 @@
 
 ---
 
-<div align="center">
+## 👩‍💻 Player Profile
 
-<pre>
-╔══════════════════════════════════════╗
-║             PLAYER PROFILE           ║
-╠══════════════════════════════════════╣
-║ Role: Software Engineer              ║
-║ Main class: Backend Developer        ║
-║ Main stack: .NET / C#                ║
-║ Current quest: Full Stack + Angular  ║
-║ Language: Portuguese / English       ║
-╚══════════════════════════════════════╝
-</pre>
+I'm a software engineer based in **Porto Alegre, Brazil**, with professional experience at **Dell Technologies** developing and maintaining REST APIs and microservices using **C# and .NET**.
 
-</div>
+My background includes **SQL Server, Entity Framework, unit testing with xUnit, code reviews, and production troubleshooting**. I've investigated critical incidents through log analysis and root cause analysis, implementing fixes and preventive measures.
 
-## 👩‍💻 About Me
+I've also collaborated in English with international Scrum teams and worked with GitLab CI/CD.
 
-I'm a software engineer with professional experience in **backend development, REST APIs, microservices, and production environments**.
+Currently, I'm continuing my backend studies through the **WoMakersCode .NET Bootcamp, in partnership with Instituto Localiza**, and building full-stack projects with **Angular and TypeScript**.
 
-I work mainly with **C# and .NET**, and I also have experience with relational databases, incident investigation, and root cause analysis.
-
-I'm currently expanding my full-stack skills with **Angular** and frontend/backend integration.
-
-Outside of tech, I'm also into **games, pets, and pixel/retro aesthetics**. 🎮🐾
+🎯 **Career focus:** Backend development with C# and .NET  
+🌎 **English:** Advanced — Cambridge C1 Advanced  
+🎮 **Outside of tech:** Games, pets, books, and pixel-art aesthetics
 
 ---
 
@@ -49,23 +35,38 @@ Outside of tech, I'm also into **games, pets, and pixel/retro aesthetics**. 🎮
 ![C#](https://img.shields.io/badge/C%23-6C63A8?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-6C63A8?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-6C63A8?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6C63A8?style=flat-square)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-6C63A8?style=flat-square)
+
+REST APIs · Microservices · Asynchronous communication · SOLID · Clean Code
 
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-C95E75?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5277A8?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-C76D4E?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-667EB5?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-667EB5?style=flat-square)
 
-### Databases & Tools
+Project experience with Reactive Forms, RxJS, and REST API integration.
 
-![SQL](https://img.shields.io/badge/SQL-557C78?style=flat-square)
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-557C78?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-557C78?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-557C78?style=flat-square&logo=mysql&logoColor=white)
+
+Relational data modeling · SQL queries · Entity Framework  
+Redis experience focused on application configuration.
+
+### Testing & Tools
+
+![xUnit](https://img.shields.io/badge/xUnit-6C63A8?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-BF654F?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-45404F?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-C8A85D?style=flat-square&logo=linux&logoColor=black)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-AE6A48?style=flat-square&logo=gitlab&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-AE5963?style=flat-square&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-C76D4E?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-557C78?style=flat-square&logo=swagger&logoColor=white)
+
+Unit testing · Pull requests · Code reviews · Scrum · Kanban
 
 ---
 
@@ -73,79 +74,52 @@ Outside of tech, I'm also into **games, pets, and pixel/retro aesthetics**. 🎮
 
 ### ✅ Task Manager Application
 
-Full-stack task management application built with **Angular and ASP.NET Core**.
+A collaborative project developed during the **WoMakersCode bootcamp**, using **Angular and ASP.NET Core**.
 
-Features:
+The application supports user registration, login and logout, and user-specific task creation, editing, completion, and deletion. It includes SQLite persistence and a responsive, pixel-art-inspired interface.
 
-- User registration with form validation
-- Task creation and listing
-- Task editing
-- Task completion
-- Task removal
-- Tasks grouped by pending and completed status
-- REST API integration
-- Centralized API error handling
-- SQLite persistence
-- Responsive pixel-art inspired interface
-- Automated backend tests
+**My contribution:** Implemented cookie-based API authentication, configured SQLite persistence and Entity Framework Core repositories, and built the Angular login screen using Reactive Forms. I also added input validation, login error feedback, and tests for the login component.
 
 **Tech stack**
 
-`Angular` `TypeScript` `RxJS` `ASP.NET Core` `.NET 10` `Entity Framework Core` `SQLite` `xUnit`
+`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `SQLite` `Angular` `TypeScript` `RxJS`
 
-🎨 [Front-end Repository](https://github.com/juliana-matias-it/gerenciador-de-tarefas-frontend)
-
-⚙️ [Back-end Repository](https://github.com/juliana-matias-it/gerenciador-de-tarefas-backend)
+🎨 [Frontend Repository](https://github.com/juliana-matias-it/gerenciador-de-tarefas-frontend)  
+⚙️ [Backend Repository](https://github.com/juliana-matias-it/gerenciador-de-tarefas-backend)
 
 ### 📦 Product Management Application
 
-Full-stack application for managing products, built with **Angular and ASP.NET Core**.
+A full-stack application for managing products with **Angular and ASP.NET Core**.
 
-Features:
-
-- Product listing
-- Search by ID
-- Product creation
-- Inline editing
-- Product removal
-- REST API integration
-- SQLite persistence
-- Responsive interface
+Features include product listing, search by ID, creation, inline editing, and removal, with REST API integration, SQLite persistence, and a responsive interface.
 
 **Tech stack**
 
-`Angular` `TypeScript` `ASP.NET Core` `Entity Framework Core` `SQLite`
+`C#` `ASP.NET Core` `Entity Framework Core` `SQLite` `Angular` `TypeScript`
 
-🎨 [Front-end Repository](https://github.com/juliana-matias-it/product-management-frontend)
-
-⚙️ [Back-end Repository](https://github.com/juliana-matias-it/product-management-api)
+🎨 [Frontend Repository](https://github.com/juliana-matias-it/product-management-frontend)  
+⚙️ [Backend Repository](https://github.com/juliana-matias-it/product-management-api)
 
 ---
 
 ## 🌱 Current Quest
 
-```text
-[■■■■■■■■□□□□] Angular
-[■■■■■■■■■□□□] .NET
-[■■■■■■□□□□□□] Full Stack Development
-```
+Continuing to learn through collaborative projects and hands-on practice:
 
-Currently improving my knowledge of:
-
-- Angular
-- Frontend/backend integration
-- Software architecture
-- REST API design
-- Testing
-- CI/CD
-- Software quality
+- Backend development and REST API design
+- Software architecture and maintainability
+- Automated testing
+- Angular and frontend/backend integration
+- CI/CD workflows
 
 ---
 
 ## 🌎 Languages
 
 **Portuguese** — Native  
-**English** — Full Professional Proficiency (Cambridge C1 Advanced)
+**English** — Advanced (Cambridge C1 Advanced)
+
+I also work as a **Cambridge English Speaking Examiner**, assessing candidates' spoken English.
 
 ---
 
@@ -153,31 +127,23 @@ Currently improving my knowledge of:
 
 When I'm not coding, you'll probably find me:
 
-🎮 playing games  
-📚 getting lost in a good book  
-🎤 singing  
-🐾 hanging out with my dog  
-🚲 going on bike rides with her  
-🍽️ trying new places to eat  
-🕹️ enjoying pixel and retro game aesthetics  
-✨ learning something new  
+🎮 Playing games  
+📚 Getting lost in a good book  
+🎤 Singing  
+🐾 Spending time with my dog  
+🚲 Taking her along on bike rides  
+🍽️ Trying new places to eat   
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-<div align="center">
+Interested in backend development, collaborative projects, and opportunities to keep learning and building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-matias-it/)
 
-</div>
-
 ---
 
 <div align="center">
-
-<pre>
-&lt; keep learning • keep building • save often &gt;
-</pre>
 
 </div>
